@@ -2,7 +2,7 @@
 
 I recently read this fascinating article from IBM:  
 [**What is software 
-development?t**](https://www.ibm.com/think/topics/software-development)  
+development?**](https://www.ibm.com/think/topics/software-development)  
 
 Published on **25 November 2024**, it covers the various stages and 
 approaches of software development, including modern practices like 
