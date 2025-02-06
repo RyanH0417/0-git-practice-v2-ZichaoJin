@@ -29,5 +29,3 @@ I found the article's coverage of DevOps particularly enlightening. The emphasis
 ## Comments from Ziqi Huang
 
 I really like how this article covers the big picture of modern software development. It explains everything from front-end and back-end work to the growing role AI plays—especially for tasks like code generation, testing, and deployment. The best part is how it shows AI as a helper rather than a replacement for human developers. Overall, its a great snapshot of how diverse and fast-evolving the software landscape has become.
-## New Comments from Ziqi Huang
-test for local git command
